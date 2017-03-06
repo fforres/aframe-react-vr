@@ -2,7 +2,7 @@ import 'aframe';
 import 'aframe-animation-component';
 import 'aframe-text-geometry-component';
 import 'babel-polyfill';
-import {Entity, Scene} from 'aframe-react';
+import { Entity, Scene } from 'aframe-react';
 import React from 'react';
 import ReactDOM from 'react-dom';
 
@@ -23,22 +23,23 @@ class VRScene extends React.Component {
     this.state = {};
     this.state.color = 'red';
     this.state.selectedDeal = false;
-    this.state.data = data;
+    this.state.deals = data.deals;
+
+    this.clickDealCube = this.clickDealCube.bind(this);
   }
 
-  changeColor() {
-    const colors = ['red', 'orange', 'yellow', 'green', 'blue'];
+  clickDealCube(id) {
     this.setState({
-      color: colors[Math.floor(Math.random() * colors.length)]
-    });
+      selectedDeal: this.state.deals.find(el => el.id === id)
+    })
   }
 
   render () {
     let vizualization = null;
     if(this.state.selectedDeal) {
-      vizualization = <BuyDeal data={this.state.selectedDeal} />;
+      vizualization = <BuyDeal deal={this.state.selectedDeal} />
     } else {
-      vizualization = <Deals deals={this.state.data.deals} />
+      vizualization = <Deals selectedDeal={this.state.selectedDeal} deals={this.state.deals} onCubeClicked={this.clickDealCube} />
     }
     return (
       <Scene>
@@ -52,7 +53,7 @@ class VRScene extends React.Component {
           </a-cursor>
         </Camera>
 
-        <Sky src={`url(${backGround2})`}/>
+        <Sky src={`url(${backGround3})`}/>
 
         {vizualization}
 
