@@ -1,0 +1,681 @@
+{
+  "deal": {
+    "isMerchandisingDeal": false,
+    "isGliveInventoryDeal": false,
+    "isInviteOnly": false,
+    "isTravelBookableDeal": false,
+    "allowedInCart": false,
+    "shippingAddressRequired": false,
+    "isTipped": true,
+    "isNowDeal": false,
+    "isAutoRefundEnabled": false,
+    "isSoldOut": false,
+    "isOptionListComplete": true,
+    "isGiftable": false,
+    "id": "kodakmoments-sesion-fotografica-de-estudio-2-1",
+    "uuid": "1004730067",
+    "templateId": 1004727516,
+    "descriptor": "<p></p><p style=\"\"><span style=\"font-weight: 400; font-style: normal;\"></span></p><p style=\"\"><span style=\"font-weight: 700; font-style: normal;\">Elige entre las siguientes opciones:</span></p><ul style=\"\"><li style=\"\"><span style=\"font-weight: 400; font-style: normal;\">$3.900 en vez de $8.000 por impresión de 50 fotos de 10x15 cm</span></li><li style=\"\"><span style=\"font-weight: 400; font-style: normal;\">$6.990 en vez de $21.000 por impresión de 100 fotos de 10x15 cm y micro USB OTG</span></li><li style=\"\"><span style=\"font-weight: 400; font-style: normal;\">$12.900 en vez de $32.000 por impresión de 200 fotos de 10x15 cm</span></li><li style=\"\"><span style=\"font-weight: 400; font-style: normal;\">$19.990 en vez de $52.000 por impresión de 300 fotos de 10x15 cm y ampliación de 15x21 cm</span></li></ul><p style=\"\"><span style=\"font-weight: 400; font-style: normal;\"></span></p><p style=\"\"><span style=\"font-weight: 400;\">Micro USB OTG es una extensión de USB 2.0 que permite a los dispositivos con puertos USB más flexibilidad en la gestión de dicha conexión. Sirve para conectar cualquier dispositivo mediante USB a nuestro smartphone o tablet.</span></p><p style=\"\"><span style=\"font-weight: 400; font-style: normal;\"></span></p><p style=\"\"><span style=\"font-weight: 700; font-style: normal;\">Kodakmoments</span></p><p style=\"\"><span style=\"font-weight: 400; font-style: normal;\">Durante su larga trayectoria, ha sabido mantenerse vigente en el ámbito del diseño y la fotografía gracias a su oferta de productos y servicios como enmarcados, impresión en poleras carcasas, tazones, fototelas, ampliaciones en grandes tamaños, photobooks, entre otros. </span></p><p style=\"\"><span style=\"font-weight: 400; font-style: normal;\"></span></p><p style=\"\"><span style=\"font-weight: 400; font-style: normal;\"></span></p><p style=\"\"><span style=\"font-weight: 400; font-style: normal;\"></span></p>",
+    "vip": "",
+    "locationNote": "",
+    "type": "groupon",
+    "startAt": "2017-02-28T03:00:00Z",
+    "finePrint": "<ul><li>Las fotos deberán ser enviadas en formato JPG con una resolución de 1024x768, en la cantidad exacta a imprimir. Se deberá llevar un pendrive o CD a la sucursal, el cual será devuelto al retiro de las fotos. No válido para impresión en máquinas de revelado instantáneo ni a través del sitio web. El tiempo de entrega es de 72 horas, según disponibilidad. Tel: (9) 7497 4807 / (9) 7497 4837. Horario: lunes a viernes de 11:00 a 20:00. sábado de 11:00 a 14:00. Máximo 1 Groupon por persona. 9 sucursales disponibles</li><li><a href=\"/global_conditions\">Ver condiciones</a> que aplican a todos los Groupones.</li></ul>",
+    "smallImageUrl": "https://img.grouponcdn.com/needish/49xizXYUukGA7dQ9gU3uE3h1yhtK/49-960x576/v1/t50x50.jpg",
+    "mediumImageUrl": "https://img.grouponcdn.com/needish/49xizXYUukGA7dQ9gU3uE3h1yhtK/49-960x576/v1/t100x100.jpg",
+    "largeImageUrl": "https://img.grouponcdn.com/needish/49xizXYUukGA7dQ9gU3uE3h1yhtK/49-960x576/v1/t440x300.jpg",
+    "sidebarImageUrl": "https://img.grouponcdn.com/needish/49xizXYUukGA7dQ9gU3uE3h1yhtK/49-960x576/v1/t200x300.jpg",
+    "grid4ImageUrl": "https://img.grouponcdn.com/needish/49xizXYUukGA7dQ9gU3uE3h1yhtK/49-960x576/v1/t300x182.jpg",
+    "grid6ImageUrl": "https://img.grouponcdn.com/needish/49xizXYUukGA7dQ9gU3uE3h1yhtK/49-960x576/v1/t460x279.jpg",
+    "dealUrl": "https://www.groupon.cl/deals/kodakmoments-sesion-fotografica-de-estudio-2-1",
+    "analyticsUrl": "/descuentos/santiago/kodakmoments-sesion-fotografica-de-estudio-2-1",
+    "title": "Desde $3.900 por impresión de 50, 100, 200 o 300 fotos de 10x15 cm con opción a micro USB OTG o ampliación en Kodakmoments",
+    "pitchHtml": "<p></p><p style=\"\"><span style=\"font-weight: 400; font-style: normal;\"></span></p><p style=\"\"><span style=\"font-weight: 700; font-style: normal;\">Elige entre las siguientes opciones:</span></p><ul style=\"\"><li style=\"\"><span style=\"font-weight: 400; font-style: normal;\">$3.900 en vez de $8.000 por impresión de 50 fotos de 10x15 cm</span></li><li style=\"\"><span style=\"font-weight: 400; font-style: normal;\">$6.990 en vez de $21.000 por impresión de 100 fotos de 10x15 cm y micro USB OTG</span></li><li style=\"\"><span style=\"font-weight: 400; font-style: normal;\">$12.900 en vez de $32.000 por impresión de 200 fotos de 10x15 cm</span></li><li style=\"\"><span style=\"font-weight: 400; font-style: normal;\">$19.990 en vez de $52.000 por impresión de 300 fotos de 10x15 cm y ampliación de 15x21 cm</span></li></ul><p style=\"\"><span style=\"font-weight: 400; font-style: normal;\"></span></p><p style=\"\"><span style=\"font-weight: 400;\">Micro USB OTG es una extensión de USB 2.0 que permite a los dispositivos con puertos USB más flexibilidad en la gestión de dicha conexión. Sirve para conectar cualquier dispositivo mediante USB a nuestro smartphone o tablet.</span></p><p style=\"\"><span style=\"font-weight: 400; font-style: normal;\"></span></p><p style=\"\"><span style=\"font-weight: 700; font-style: normal;\">Kodakmoments</span></p><p style=\"\"><span style=\"font-weight: 400; font-style: normal;\">Durante su larga trayectoria, ha sabido mantenerse vigente en el ámbito del diseño y la fotografía gracias a su oferta de productos y servicios como enmarcados, impresión en poleras carcasas, tazones, fototelas, ampliaciones en grandes tamaños, photobooks, entre otros. </span></p><p style=\"\"><span style=\"font-weight: 400; font-style: normal;\"></span></p><p style=\"\"><span style=\"font-weight: 400; font-style: normal;\"></span></p><p style=\"\"><span style=\"font-weight: 400; font-style: normal;\"></span></p><p><strong>El Groupon se puede utilizar desde el 28 de febrero de 2017 hasta el 29 de abril de 2017</strong></p>",
+    "status": "closed",
+    "endAt": "2017-03-05T02:59:59Z",
+    "announcementTitle": "Impresión de 50, 100, 200 o 300 fotos hasta 67% off",
+    "highlightsHtml": "<ul><li>Impresión en papel fotográfico semimate resistente al agua, a los efectos químicos y desgaste del tiempo</li></ul>",
+    "soldQuantityMessage": "Más de 90",
+    "placementPriority": "side-deal",
+    "shortAnnouncementTitle": "Impresión de Fotos",
+    "fulfillmentMethod": null,
+    "redemptionLocation": "Kodakmoments",
+    "accessType": null,
+    "limitedQuantityRemaining": null,
+    "grouponRating": 1,
+    "tippingPoint": 1,
+    "soldQuantity": 95,
+    "merchant": {
+      "id": "163511",
+      "name": "Kodakmoments",
+      "websiteUrl": "http://www.fotodescuento.cl/",
+      "profileHtml": "",
+      "twitterUrl": "",
+      "profileHeader": "Kodakmoments",
+      "facebookUrl": "",
+      "uuid": "163511"
+    },
+    "textAd": {
+      "headline": "",
+      "line1": "",
+      "line2": ""
+    },
+    "says": {
+      "websiteContentHtml": "<p>CÓMO HABLAR DE FÚTBOL SIN SER DESCUBIERTO. Consejos y nociones para fanáticos del ajedrez, vacas a las que no les gusta correr sobre la comida  y otros especímenes no-futboleros.</p> \r\n\r\n<p>- La palabra del idioma español que denomina a esta manifestación deportiva es <i>fútbol</i>, tildada en la U por ser grave terminada en L. En reuniones futboleras evite comentar esto; un conocimiento profundo de las reglas ortográficas podría dejarlo al descubierto.</p>\r\n\r\n<p>- Al contrario de lo que expresa la sabiduría popular, el título correcto para quien cuida la aplicación del reglamento es <i>árbitro</i>, no <i>saquero</i>.</p>\r\n\r\n<p>- El balón usado es redondo, de cuero y algo más grande que un melón. Por lo tanto, si la pelota es de plástico y del tamaño de una ciruela, no es fútbol. Si aun no está seguro, mire si los jugadores usan paletas de ping-pong. Entonces es ping-pong.</p>\r\n\r\n<p>- Si aún no está seguro, vea si hay una mesa. Nada que involucre una mesa es fútbol. No insista. Probablemente sea ping-pong.</p>\r\n\r\n<p>- El campo de juego es un área grande cubierta de pasto. Para saber si no es fútbol, fíjese en lo siguiente: si los jugadores están usando palos, es golf; si usan caballos, es polo; si hay niños jugando y familias en picnic, es probable que ni siquiera sea un campo deportivo.</p>",
+      "emailContentHtml": "<p>Consejos para el antifutbolero encubierto</p>",
+      "websiteContent": "CÓMO HABLAR DE FÚTBOL SIN SER DESCUBIERTO. Consejos y nociones para fanáticos del ajedrez, vacas a las que no les gusta correr sobre la comida  y otros especímenes no-futboleros. \r\n\r\n- La palabra del idioma español que denomina a esta manifestación deportiva es <i>fútbol</i>, tildada en la U por ser grave terminada en L. En reuniones futboleras evite comentar esto; un conocimiento profundo de las reglas ortográficas podría dejarlo al descubierto.\r\n\r\n- Al contrario de lo que expresa la sabiduría popular, el título correcto para quien cuida la aplicación del reglamento es <i>árbitro</i>, no <i>saquero</i>.\r\n\r\n- El balón usado es redondo, de cuero y algo más grande que un melón. Por lo tanto, si la pelota es de plástico y del tamaño de una ciruela, no es fútbol. Si aun no está seguro, mire si los jugadores usan paletas de ping-pong. Entonces es ping-pong.\r\n\r\n- Si aún no está seguro, vea si hay una mesa. Nada que involucre una mesa es fútbol. No insista. Probablemente sea ping-pong.\r\n\r\n- El campo de juego es un área grande cubierta de pasto. Para saber si no es fútbol, fíjese en lo siguiente: si los jugadores están usando palos, es golf; si usan caballos, es polo; si hay niños jugando y familias en picnic, es probable que ni siquiera sea un campo deportivo.",
+      "emailContent": "Consejos para el antifutbolero encubierto",
+      "id": 1728,
+      "title": "Consejos para el antifutbolero encubierto"
+    },
+    "division": {
+      "timezoneOffsetInSeconds": -10800,
+      "name": "Santiago",
+      "lat": -33.4206,
+      "lng": -70.6096,
+      "id": "santiago",
+      "timezone": "Chile Time",
+      "timezoneIdentifier": "America/Santiago"
+    },
+    "priceSummary": {
+      "value": {
+        "formattedAmount": "$8.000",
+        "amount": 800000,
+        "currencyCode": "CLP"
+      },
+      "price": {
+        "formattedAmount": "$3.900",
+        "amount": 390000,
+        "currencyCode": "CLP"
+      },
+      "minimumPurchaseQuantity": 1,
+      "discountPercent": 51
+    },
+    "recommendation": {},
+    "categorizations": [],
+    "displayOptions": [
+      {
+        "name": "timer",
+        "enabled": true
+      },
+      {
+        "name": "quantity",
+        "enabled": true
+      },
+      {
+        "name": "discount",
+        "enabled": true
+      },
+      {
+        "name": "merchandisingType",
+        "value": "local"
+      },
+      {
+        "name": "showRedemptionLocations",
+        "enabled": true
+      }
+    ],
+    "videos": [],
+    "images": [
+      {
+        "url": "https://img.grouponcdn.com/needish/49xizXYUukGA7dQ9gU3uE3h1yhtK/49-960x576/v1/",
+        "grid6": "https://img.grouponcdn.com/needish/49xizXYUukGA7dQ9gU3uE3h1yhtK/49-960x576/v1/t460x279.jpg",
+        "big": "https://img.grouponcdn.com/needish/49xizXYUukGA7dQ9gU3uE3h1yhtK/49-960x576/v1/t900x600.jpg",
+        "grid4": "https://img.grouponcdn.com/needish/49xizXYUukGA7dQ9gU3uE3h1yhtK/49-960x576/v1/t300x182.jpg",
+        "medium": "https://img.grouponcdn.com/needish/49xizXYUukGA7dQ9gU3uE3h1yhtK/49-960x576/v1/t100x100.jpg",
+        "profile": "https://img.grouponcdn.com/needish/49xizXYUukGA7dQ9gU3uE3h1yhtK/49-960x576/v1/t100x100.jpg",
+        "sidebar": "https://img.grouponcdn.com/needish/49xizXYUukGA7dQ9gU3uE3h1yhtK/49-960x576/v1/t200x300.jpg",
+        "square": "https://img.grouponcdn.com/needish/49xizXYUukGA7dQ9gU3uE3h1yhtK/49-960x576/v1/t50x50.jpg",
+        "small": "https://img.grouponcdn.com/needish/49xizXYUukGA7dQ9gU3uE3h1yhtK/49-960x576/v1/t50x50.jpg"
+      },
+      {
+        "url": "https://img.grouponcdn.com/needish/2QMyQWQKdpAoPDdZnGr8PMuAwxRb/2Q-700x420/v1/",
+        "grid6": "https://img.grouponcdn.com/needish/2QMyQWQKdpAoPDdZnGr8PMuAwxRb/2Q-700x420/v1/t460x279.jpg",
+        "big": "https://img.grouponcdn.com/needish/2QMyQWQKdpAoPDdZnGr8PMuAwxRb/2Q-700x420/v1/t900x600.jpg",
+        "grid4": "https://img.grouponcdn.com/needish/2QMyQWQKdpAoPDdZnGr8PMuAwxRb/2Q-700x420/v1/t300x182.jpg",
+        "medium": "https://img.grouponcdn.com/needish/2QMyQWQKdpAoPDdZnGr8PMuAwxRb/2Q-700x420/v1/t100x100.jpg",
+        "profile": "https://img.grouponcdn.com/needish/2QMyQWQKdpAoPDdZnGr8PMuAwxRb/2Q-700x420/v1/t100x100.jpg",
+        "sidebar": "https://img.grouponcdn.com/needish/2QMyQWQKdpAoPDdZnGr8PMuAwxRb/2Q-700x420/v1/t200x300.jpg",
+        "square": "https://img.grouponcdn.com/needish/2QMyQWQKdpAoPDdZnGr8PMuAwxRb/2Q-700x420/v1/t50x50.jpg",
+        "small": "https://img.grouponcdn.com/needish/2QMyQWQKdpAoPDdZnGr8PMuAwxRb/2Q-700x420/v1/t50x50.jpg"
+      },
+      {
+        "url": "https://img.grouponcdn.com/needish/2v9vRk37F3TNZKehnzhCtuMiFyUe/2v-700x420/v1/",
+        "grid6": "https://img.grouponcdn.com/needish/2v9vRk37F3TNZKehnzhCtuMiFyUe/2v-700x420/v1/t460x279.jpg",
+        "big": "https://img.grouponcdn.com/needish/2v9vRk37F3TNZKehnzhCtuMiFyUe/2v-700x420/v1/t900x600.jpg",
+        "grid4": "https://img.grouponcdn.com/needish/2v9vRk37F3TNZKehnzhCtuMiFyUe/2v-700x420/v1/t300x182.jpg",
+        "medium": "https://img.grouponcdn.com/needish/2v9vRk37F3TNZKehnzhCtuMiFyUe/2v-700x420/v1/t100x100.jpg",
+        "profile": "https://img.grouponcdn.com/needish/2v9vRk37F3TNZKehnzhCtuMiFyUe/2v-700x420/v1/t100x100.jpg",
+        "sidebar": "https://img.grouponcdn.com/needish/2v9vRk37F3TNZKehnzhCtuMiFyUe/2v-700x420/v1/t200x300.jpg",
+        "square": "https://img.grouponcdn.com/needish/2v9vRk37F3TNZKehnzhCtuMiFyUe/2v-700x420/v1/t50x50.jpg",
+        "small": "https://img.grouponcdn.com/needish/2v9vRk37F3TNZKehnzhCtuMiFyUe/2v-700x420/v1/t50x50.jpg"
+      },
+      {
+        "url": "https://img.grouponcdn.com/needish/xqnpgsVUYK6eWbArXU7t3Cg6wDq/xq-700x420/v1/",
+        "grid6": "https://img.grouponcdn.com/needish/xqnpgsVUYK6eWbArXU7t3Cg6wDq/xq-700x420/v1/t460x279.jpg",
+        "big": "https://img.grouponcdn.com/needish/xqnpgsVUYK6eWbArXU7t3Cg6wDq/xq-700x420/v1/t900x600.jpg",
+        "grid4": "https://img.grouponcdn.com/needish/xqnpgsVUYK6eWbArXU7t3Cg6wDq/xq-700x420/v1/t300x182.jpg",
+        "medium": "https://img.grouponcdn.com/needish/xqnpgsVUYK6eWbArXU7t3Cg6wDq/xq-700x420/v1/t100x100.jpg",
+        "profile": "https://img.grouponcdn.com/needish/xqnpgsVUYK6eWbArXU7t3Cg6wDq/xq-700x420/v1/t100x100.jpg",
+        "sidebar": "https://img.grouponcdn.com/needish/xqnpgsVUYK6eWbArXU7t3Cg6wDq/xq-700x420/v1/t200x300.jpg",
+        "square": "https://img.grouponcdn.com/needish/xqnpgsVUYK6eWbArXU7t3Cg6wDq/xq-700x420/v1/t50x50.jpg",
+        "small": "https://img.grouponcdn.com/needish/xqnpgsVUYK6eWbArXU7t3Cg6wDq/xq-700x420/v1/t50x50.jpg"
+      },
+      {
+        "url": "https://img.grouponcdn.com/needish/ifzSnKK7CNdTyXoAnrt4c6aGmXH/if-700x420/v1/",
+        "grid6": "https://img.grouponcdn.com/needish/ifzSnKK7CNdTyXoAnrt4c6aGmXH/if-700x420/v1/t460x279.jpg",
+        "big": "https://img.grouponcdn.com/needish/ifzSnKK7CNdTyXoAnrt4c6aGmXH/if-700x420/v1/t900x600.jpg",
+        "grid4": "https://img.grouponcdn.com/needish/ifzSnKK7CNdTyXoAnrt4c6aGmXH/if-700x420/v1/t300x182.jpg",
+        "medium": "https://img.grouponcdn.com/needish/ifzSnKK7CNdTyXoAnrt4c6aGmXH/if-700x420/v1/t100x100.jpg",
+        "profile": "https://img.grouponcdn.com/needish/ifzSnKK7CNdTyXoAnrt4c6aGmXH/if-700x420/v1/t100x100.jpg",
+        "sidebar": "https://img.grouponcdn.com/needish/ifzSnKK7CNdTyXoAnrt4c6aGmXH/if-700x420/v1/t200x300.jpg",
+        "square": "https://img.grouponcdn.com/needish/ifzSnKK7CNdTyXoAnrt4c6aGmXH/if-700x420/v1/t50x50.jpg",
+        "small": "https://img.grouponcdn.com/needish/ifzSnKK7CNdTyXoAnrt4c6aGmXH/if-700x420/v1/t50x50.jpg"
+      },
+      {
+        "url": "https://img.grouponcdn.com/needish/49xizXYUukGA7dQ9gU3uE3h1yhtK/49-960x576/v1/",
+        "grid6": "https://img.grouponcdn.com/needish/49xizXYUukGA7dQ9gU3uE3h1yhtK/49-960x576/v1/t460x279.jpg",
+        "big": "https://img.grouponcdn.com/needish/49xizXYUukGA7dQ9gU3uE3h1yhtK/49-960x576/v1/t900x600.jpg",
+        "grid4": "https://img.grouponcdn.com/needish/49xizXYUukGA7dQ9gU3uE3h1yhtK/49-960x576/v1/t300x182.jpg",
+        "medium": "https://img.grouponcdn.com/needish/49xizXYUukGA7dQ9gU3uE3h1yhtK/49-960x576/v1/t100x100.jpg",
+        "profile": "https://img.grouponcdn.com/needish/49xizXYUukGA7dQ9gU3uE3h1yhtK/49-960x576/v1/t100x100.jpg",
+        "sidebar": "https://img.grouponcdn.com/needish/49xizXYUukGA7dQ9gU3uE3h1yhtK/49-960x576/v1/t200x300.jpg",
+        "square": "https://img.grouponcdn.com/needish/49xizXYUukGA7dQ9gU3uE3h1yhtK/49-960x576/v1/t50x50.jpg",
+        "small": "https://img.grouponcdn.com/needish/49xizXYUukGA7dQ9gU3uE3h1yhtK/49-960x576/v1/t50x50.jpg"
+      },
+      {
+        "url": "https://img.grouponcdn.com/needish/2QMyQWQKdpAoPDdZnGr8PMuAwxRb/2Q-700x420/v1/",
+        "grid6": "https://img.grouponcdn.com/needish/2QMyQWQKdpAoPDdZnGr8PMuAwxRb/2Q-700x420/v1/t460x279.jpg",
+        "big": "https://img.grouponcdn.com/needish/2QMyQWQKdpAoPDdZnGr8PMuAwxRb/2Q-700x420/v1/t900x600.jpg",
+        "grid4": "https://img.grouponcdn.com/needish/2QMyQWQKdpAoPDdZnGr8PMuAwxRb/2Q-700x420/v1/t300x182.jpg",
+        "medium": "https://img.grouponcdn.com/needish/2QMyQWQKdpAoPDdZnGr8PMuAwxRb/2Q-700x420/v1/t100x100.jpg",
+        "profile": "https://img.grouponcdn.com/needish/2QMyQWQKdpAoPDdZnGr8PMuAwxRb/2Q-700x420/v1/t100x100.jpg",
+        "sidebar": "https://img.grouponcdn.com/needish/2QMyQWQKdpAoPDdZnGr8PMuAwxRb/2Q-700x420/v1/t200x300.jpg",
+        "square": "https://img.grouponcdn.com/needish/2QMyQWQKdpAoPDdZnGr8PMuAwxRb/2Q-700x420/v1/t50x50.jpg",
+        "small": "https://img.grouponcdn.com/needish/2QMyQWQKdpAoPDdZnGr8PMuAwxRb/2Q-700x420/v1/t50x50.jpg"
+      },
+      {
+        "url": "https://img.grouponcdn.com/needish/2v9vRk37F3TNZKehnzhCtuMiFyUe/2v-700x420/v1/",
+        "grid6": "https://img.grouponcdn.com/needish/2v9vRk37F3TNZKehnzhCtuMiFyUe/2v-700x420/v1/t460x279.jpg",
+        "big": "https://img.grouponcdn.com/needish/2v9vRk37F3TNZKehnzhCtuMiFyUe/2v-700x420/v1/t900x600.jpg",
+        "grid4": "https://img.grouponcdn.com/needish/2v9vRk37F3TNZKehnzhCtuMiFyUe/2v-700x420/v1/t300x182.jpg",
+        "medium": "https://img.grouponcdn.com/needish/2v9vRk37F3TNZKehnzhCtuMiFyUe/2v-700x420/v1/t100x100.jpg",
+        "profile": "https://img.grouponcdn.com/needish/2v9vRk37F3TNZKehnzhCtuMiFyUe/2v-700x420/v1/t100x100.jpg",
+        "sidebar": "https://img.grouponcdn.com/needish/2v9vRk37F3TNZKehnzhCtuMiFyUe/2v-700x420/v1/t200x300.jpg",
+        "square": "https://img.grouponcdn.com/needish/2v9vRk37F3TNZKehnzhCtuMiFyUe/2v-700x420/v1/t50x50.jpg",
+        "small": "https://img.grouponcdn.com/needish/2v9vRk37F3TNZKehnzhCtuMiFyUe/2v-700x420/v1/t50x50.jpg"
+      },
+      {
+        "url": "https://img.grouponcdn.com/needish/xqnpgsVUYK6eWbArXU7t3Cg6wDq/xq-700x420/v1/",
+        "grid6": "https://img.grouponcdn.com/needish/xqnpgsVUYK6eWbArXU7t3Cg6wDq/xq-700x420/v1/t460x279.jpg",
+        "big": "https://img.grouponcdn.com/needish/xqnpgsVUYK6eWbArXU7t3Cg6wDq/xq-700x420/v1/t900x600.jpg",
+        "grid4": "https://img.grouponcdn.com/needish/xqnpgsVUYK6eWbArXU7t3Cg6wDq/xq-700x420/v1/t300x182.jpg",
+        "medium": "https://img.grouponcdn.com/needish/xqnpgsVUYK6eWbArXU7t3Cg6wDq/xq-700x420/v1/t100x100.jpg",
+        "profile": "https://img.grouponcdn.com/needish/xqnpgsVUYK6eWbArXU7t3Cg6wDq/xq-700x420/v1/t100x100.jpg",
+        "sidebar": "https://img.grouponcdn.com/needish/xqnpgsVUYK6eWbArXU7t3Cg6wDq/xq-700x420/v1/t200x300.jpg",
+        "square": "https://img.grouponcdn.com/needish/xqnpgsVUYK6eWbArXU7t3Cg6wDq/xq-700x420/v1/t50x50.jpg",
+        "small": "https://img.grouponcdn.com/needish/xqnpgsVUYK6eWbArXU7t3Cg6wDq/xq-700x420/v1/t50x50.jpg"
+      },
+      {
+        "url": "https://img.grouponcdn.com/needish/ifzSnKK7CNdTyXoAnrt4c6aGmXH/if-700x420/v1/",
+        "grid6": "https://img.grouponcdn.com/needish/ifzSnKK7CNdTyXoAnrt4c6aGmXH/if-700x420/v1/t460x279.jpg",
+        "big": "https://img.grouponcdn.com/needish/ifzSnKK7CNdTyXoAnrt4c6aGmXH/if-700x420/v1/t900x600.jpg",
+        "grid4": "https://img.grouponcdn.com/needish/ifzSnKK7CNdTyXoAnrt4c6aGmXH/if-700x420/v1/t300x182.jpg",
+        "medium": "https://img.grouponcdn.com/needish/ifzSnKK7CNdTyXoAnrt4c6aGmXH/if-700x420/v1/t100x100.jpg",
+        "profile": "https://img.grouponcdn.com/needish/ifzSnKK7CNdTyXoAnrt4c6aGmXH/if-700x420/v1/t100x100.jpg",
+        "sidebar": "https://img.grouponcdn.com/needish/ifzSnKK7CNdTyXoAnrt4c6aGmXH/if-700x420/v1/t200x300.jpg",
+        "square": "https://img.grouponcdn.com/needish/ifzSnKK7CNdTyXoAnrt4c6aGmXH/if-700x420/v1/t50x50.jpg",
+        "small": "https://img.grouponcdn.com/needish/ifzSnKK7CNdTyXoAnrt4c6aGmXH/if-700x420/v1/t50x50.jpg"
+      }
+    ],
+    "reviews": [],
+    "channels": [
+      {
+        "id": "local",
+        "name": "Local"
+      }
+    ],
+    "tags": [
+      {
+        "name": "Photo Shoot Studio"
+      }
+    ],
+    "areas": [],
+    "options": [
+      {
+        "id": 1004730068,
+        "title": "Impresión de 50 fotos de 10x15 cm",
+        "expiresAt": "2017-04-29T02:59:59Z",
+        "externalUrl": "",
+        "buyUrl": "https://www.groupon.cl/deals/kodakmoments-sesion-fotografica-de-estudio-2-1/confirmation?pledge_id=1004730068",
+        "salesforceId": "a0YC000000iKmpfMAC",
+        "status": "closed",
+        "endAt": "2017-03-05T02:59:59Z",
+        "uuid": "1004730068",
+        "subTitle": "Impresión de 50, 100, 200 o 300 fotos hasta 67% off",
+        "soldQuantity": 19,
+        "discountPercent": 51,
+        "initialQuantity": 0,
+        "remainingQuantity": 0,
+        "minimumPurchaseQuantity": 1,
+        "maximumPurchaseQuantity": 11,
+        "templateId": 1004727517,
+        "expiresInDays": 54,
+        "isLimitedQuantity": true,
+        "isSoldOut": false,
+        "stockManagement": false,
+        "bookable": false,
+        "price": {
+          "formattedAmount": "$3.900",
+          "amount": 390000,
+          "currencyCode": "CLP"
+        },
+        "value": {
+          "formattedAmount": "$8.000",
+          "amount": 800000,
+          "currencyCode": "CLP"
+        },
+        "discount": {
+          "formattedAmount": "$4.100",
+          "amount": 410000,
+          "currencyCode": "CLP"
+        },
+        "tax": {
+          "formattedAmount": "$0",
+          "amount": 0,
+          "currencyCode": "CLP"
+        },
+        "details": [
+          {
+            "description": "<ul><li>Las fotos deberán ser enviadas en formato JPG con una resolución de 1024x768, en la cantidad exacta a imprimir. Se deberá llevar un pendrive o CD a la sucursal, el cual será devuelto al retiro de las fotos. No válido para impresión en máquinas de revelado instantáneo ni a través del sitio web. El tiempo de entrega es de 72 horas, según disponibilidad. Tel: (9) 7497 4807 / (9) 7497 4837. Horario: lunes a viernes de 11:00 a 20:00. sábado de 11:00 a 14:00. Máximo 1 Groupon por persona. 9 sucursales disponibles</li><li><a href=\"/global_conditions\">Ver condiciones</a> que aplican a todos los Groupones.</li></ul>"
+          }
+        ],
+        "redemptionLocations": [
+          {
+            "id": 1004704203,
+            "uuid": "1004704203",
+            "ordering": 0,
+            "streetAddress1": "1885 Avenida Pedro de Valdivia, Chile",
+            "state": "",
+            "streetAddress2": "",
+            "city": "",
+            "postalCode": "",
+            "name": "Kodakmoments",
+            "lat": -33.4400542,
+            "phoneNumber": "",
+            "lng": -70.60714229999996
+          },
+          {
+            "id": 1004704204,
+            "uuid": "1004704204",
+            "ordering": 1,
+            "streetAddress1": "1763 Santa Amalia, Chile",
+            "state": "",
+            "streetAddress2": "",
+            "city": "",
+            "postalCode": "",
+            "name": "Kodakmoments",
+            "lat": -33.5435297,
+            "phoneNumber": "",
+            "lng": -70.56491160000002
+          },
+          {
+            "id": 1004704205,
+            "uuid": "1004704205",
+            "ordering": 2,
+            "streetAddress1": "4500 Avenida Los Pajaritos, Chile",
+            "state": "",
+            "streetAddress2": "",
+            "city": "",
+            "postalCode": "",
+            "name": "Kodakmoments",
+            "lat": -33.4806767,
+            "phoneNumber": "",
+            "lng": -70.7469193
+          },
+          {
+            "id": 1004704206,
+            "uuid": "1004704206",
+            "ordering": 3,
+            "streetAddress1": "1230 Compañía de Jesús, Chile",
+            "state": "",
+            "streetAddress2": "",
+            "city": "",
+            "postalCode": "",
+            "name": "Kodakmoments",
+            "lat": -33.4388376,
+            "phoneNumber": "",
+            "lng": -70.65459049999998
+          }
+        ],
+        "customFields": []
+      },
+      {
+        "id": 1004730069,
+        "title": "Impresión de 100 fotos de 10x15 cm + micro USB OTG",
+        "expiresAt": "2017-04-29T02:59:59Z",
+        "externalUrl": "",
+        "buyUrl": "https://www.groupon.cl/deals/kodakmoments-sesion-fotografica-de-estudio-2-1/confirmation?pledge_id=1004730069",
+        "salesforceId": "a0YC000000iKmpgMAC",
+        "status": "closed",
+        "endAt": "2017-03-05T02:59:59Z",
+        "uuid": "1004730069",
+        "subTitle": "Impresión de 50, 100, 200 o 300 fotos hasta 67% off",
+        "soldQuantity": 33,
+        "discountPercent": 67,
+        "initialQuantity": 0,
+        "remainingQuantity": 0,
+        "minimumPurchaseQuantity": 1,
+        "maximumPurchaseQuantity": 11,
+        "templateId": 1004727518,
+        "expiresInDays": 54,
+        "isLimitedQuantity": true,
+        "isSoldOut": false,
+        "stockManagement": false,
+        "bookable": false,
+        "price": {
+          "formattedAmount": "$6.990",
+          "amount": 699000,
+          "currencyCode": "CLP"
+        },
+        "value": {
+          "formattedAmount": "$21.000",
+          "amount": 2100000,
+          "currencyCode": "CLP"
+        },
+        "discount": {
+          "formattedAmount": "$14.010",
+          "amount": 1401000,
+          "currencyCode": "CLP"
+        },
+        "tax": {
+          "formattedAmount": "$0",
+          "amount": 0,
+          "currencyCode": "CLP"
+        },
+        "details": [
+          {
+            "description": "<ul><li>Las fotos deberán ser enviadas en formato JPG con una resolución de 1024x768, en la cantidad exacta a imprimir. Se deberá llevar un pendrive o CD a la sucursal, el cual será devuelto al retiro de las fotos. No válido para impresión en máquinas de revelado instantáneo ni a través del sitio web. El tiempo de entrega es de 72 horas, según disponibilidad. Tel: (9) 7497 4807 / (9) 7497 4837. Horario: lunes a viernes de 11:00 a 20:00. sábado de 11:00 a 14:00. Máximo 1 Groupon por persona. 9 sucursales disponibles</li><li><a href=\"/global_conditions\">Ver condiciones</a> que aplican a todos los Groupones.</li></ul>"
+          }
+        ],
+        "redemptionLocations": [
+          {
+            "id": 1004704203,
+            "uuid": "1004704203",
+            "ordering": 0,
+            "streetAddress1": "1885 Avenida Pedro de Valdivia, Chile",
+            "state": "",
+            "streetAddress2": "",
+            "city": "",
+            "postalCode": "",
+            "name": "Kodakmoments",
+            "lat": -33.4400542,
+            "phoneNumber": "",
+            "lng": -70.60714229999996
+          },
+          {
+            "id": 1004704204,
+            "uuid": "1004704204",
+            "ordering": 1,
+            "streetAddress1": "1763 Santa Amalia, Chile",
+            "state": "",
+            "streetAddress2": "",
+            "city": "",
+            "postalCode": "",
+            "name": "Kodakmoments",
+            "lat": -33.5435297,
+            "phoneNumber": "",
+            "lng": -70.56491160000002
+          },
+          {
+            "id": 1004704205,
+            "uuid": "1004704205",
+            "ordering": 2,
+            "streetAddress1": "4500 Avenida Los Pajaritos, Chile",
+            "state": "",
+            "streetAddress2": "",
+            "city": "",
+            "postalCode": "",
+            "name": "Kodakmoments",
+            "lat": -33.4806767,
+            "phoneNumber": "",
+            "lng": -70.7469193
+          },
+          {
+            "id": 1004704206,
+            "uuid": "1004704206",
+            "ordering": 3,
+            "streetAddress1": "1230 Compañía de Jesús, Chile",
+            "state": "",
+            "streetAddress2": "",
+            "city": "",
+            "postalCode": "",
+            "name": "Kodakmoments",
+            "lat": -33.4388376,
+            "phoneNumber": "",
+            "lng": -70.65459049999998
+          }
+        ],
+        "customFields": []
+      },
+      {
+        "id": 1004730070,
+        "title": "Impresión de 200 fotos de 10x15 cm",
+        "expiresAt": "2017-04-29T02:59:59Z",
+        "externalUrl": "",
+        "buyUrl": "https://www.groupon.cl/deals/kodakmoments-sesion-fotografica-de-estudio-2-1/confirmation?pledge_id=1004730070",
+        "salesforceId": "a0YC000000iKmphMAC",
+        "status": "closed",
+        "endAt": "2017-03-05T02:59:59Z",
+        "uuid": "1004730070",
+        "subTitle": "Impresión de 50, 100, 200 o 300 fotos hasta 67% off",
+        "soldQuantity": 31,
+        "discountPercent": 60,
+        "initialQuantity": 0,
+        "remainingQuantity": 0,
+        "minimumPurchaseQuantity": 1,
+        "maximumPurchaseQuantity": 11,
+        "templateId": 1004727519,
+        "expiresInDays": 54,
+        "isLimitedQuantity": true,
+        "isSoldOut": false,
+        "stockManagement": false,
+        "bookable": false,
+        "price": {
+          "formattedAmount": "$12.900",
+          "amount": 1290000,
+          "currencyCode": "CLP"
+        },
+        "value": {
+          "formattedAmount": "$32.000",
+          "amount": 3200000,
+          "currencyCode": "CLP"
+        },
+        "discount": {
+          "formattedAmount": "$19.100",
+          "amount": 1910000,
+          "currencyCode": "CLP"
+        },
+        "tax": {
+          "formattedAmount": "$0",
+          "amount": 0,
+          "currencyCode": "CLP"
+        },
+        "details": [
+          {
+            "description": "<ul><li>Las fotos deberán ser enviadas en formato JPG con una resolución de 1024x768, en la cantidad exacta a imprimir. Se deberá llevar un pendrive o CD a la sucursal, el cual será devuelto al retiro de las fotos. No válido para impresión en máquinas de revelado instantáneo ni a través del sitio web. El tiempo de entrega es de 72 horas, según disponibilidad. Tel: (9) 7497 4807 / (9) 7497 4837. Horario: lunes a viernes de 11:00 a 20:00. sábado de 11:00 a 14:00. Máximo 1 Groupon por persona. 9 sucursales disponibles</li><li><a href=\"/global_conditions\">Ver condiciones</a> que aplican a todos los Groupones.</li></ul>"
+          }
+        ],
+        "redemptionLocations": [
+          {
+            "id": 1004704203,
+            "uuid": "1004704203",
+            "ordering": 0,
+            "streetAddress1": "1885 Avenida Pedro de Valdivia, Chile",
+            "state": "",
+            "streetAddress2": "",
+            "city": "",
+            "postalCode": "",
+            "name": "Kodakmoments",
+            "lat": -33.4400542,
+            "phoneNumber": "",
+            "lng": -70.60714229999996
+          },
+          {
+            "id": 1004704204,
+            "uuid": "1004704204",
+            "ordering": 1,
+            "streetAddress1": "1763 Santa Amalia, Chile",
+            "state": "",
+            "streetAddress2": "",
+            "city": "",
+            "postalCode": "",
+            "name": "Kodakmoments",
+            "lat": -33.5435297,
+            "phoneNumber": "",
+            "lng": -70.56491160000002
+          },
+          {
+            "id": 1004704205,
+            "uuid": "1004704205",
+            "ordering": 2,
+            "streetAddress1": "4500 Avenida Los Pajaritos, Chile",
+            "state": "",
+            "streetAddress2": "",
+            "city": "",
+            "postalCode": "",
+            "name": "Kodakmoments",
+            "lat": -33.4806767,
+            "phoneNumber": "",
+            "lng": -70.7469193
+          },
+          {
+            "id": 1004704206,
+            "uuid": "1004704206",
+            "ordering": 3,
+            "streetAddress1": "1230 Compañía de Jesús, Chile",
+            "state": "",
+            "streetAddress2": "",
+            "city": "",
+            "postalCode": "",
+            "name": "Kodakmoments",
+            "lat": -33.4388376,
+            "phoneNumber": "",
+            "lng": -70.65459049999998
+          }
+        ],
+        "customFields": []
+      },
+      {
+        "id": 1004730071,
+        "title": "Impresión de 300 fotos de 10x15 cm + ampliación de 15x21 cm",
+        "expiresAt": "2017-04-29T02:59:59Z",
+        "externalUrl": "",
+        "buyUrl": "https://www.groupon.cl/deals/kodakmoments-sesion-fotografica-de-estudio-2-1/confirmation?pledge_id=1004730071",
+        "salesforceId": "a0YC000000iKmpiMAC",
+        "status": "closed",
+        "endAt": "2017-03-05T02:59:59Z",
+        "uuid": "1004730071",
+        "subTitle": "Impresión de 50, 100, 200 o 300 fotos hasta 67% off",
+        "soldQuantity": 12,
+        "discountPercent": 62,
+        "initialQuantity": 0,
+        "remainingQuantity": 0,
+        "minimumPurchaseQuantity": 1,
+        "maximumPurchaseQuantity": 11,
+        "templateId": 1004727520,
+        "expiresInDays": 54,
+        "isLimitedQuantity": true,
+        "isSoldOut": false,
+        "stockManagement": false,
+        "bookable": false,
+        "price": {
+          "formattedAmount": "$19.990",
+          "amount": 1999000,
+          "currencyCode": "CLP"
+        },
+        "value": {
+          "formattedAmount": "$52.000",
+          "amount": 5200000,
+          "currencyCode": "CLP"
+        },
+        "discount": {
+          "formattedAmount": "$32.010",
+          "amount": 3201000,
+          "currencyCode": "CLP"
+        },
+        "tax": {
+          "formattedAmount": "$0",
+          "amount": 0,
+          "currencyCode": "CLP"
+        },
+        "details": [
+          {
+            "description": "<ul><li>Las fotos deberán ser enviadas en formato JPG con una resolución de 1024x768, en la cantidad exacta a imprimir. Se deberá llevar un pendrive o CD a la sucursal, el cual será devuelto al retiro de las fotos. No válido para impresión en máquinas de revelado instantáneo ni a través del sitio web. El tiempo de entrega es de 72 horas, según disponibilidad. Tel: (9) 7497 4807 / (9) 7497 4837. Horario: lunes a viernes de 11:00 a 20:00. sábado de 11:00 a 14:00. Máximo 1 Groupon por persona. 9 sucursales disponibles</li><li><a href=\"/global_conditions\">Ver condiciones</a> que aplican a todos los Groupones.</li></ul>"
+          }
+        ],
+        "redemptionLocations": [
+          {
+            "id": 1004704203,
+            "uuid": "1004704203",
+            "ordering": 0,
+            "streetAddress1": "1885 Avenida Pedro de Valdivia, Chile",
+            "state": "",
+            "streetAddress2": "",
+            "city": "",
+            "postalCode": "",
+            "name": "Kodakmoments",
+            "lat": -33.4400542,
+            "phoneNumber": "",
+            "lng": -70.60714229999996
+          },
+          {
+            "id": 1004704204,
+            "uuid": "1004704204",
+            "ordering": 1,
+            "streetAddress1": "1763 Santa Amalia, Chile",
+            "state": "",
+            "streetAddress2": "",
+            "city": "",
+            "postalCode": "",
+            "name": "Kodakmoments",
+            "lat": -33.5435297,
+            "phoneNumber": "",
+            "lng": -70.56491160000002
+          },
+          {
+            "id": 1004704205,
+            "uuid": "1004704205",
+            "ordering": 2,
+            "streetAddress1": "4500 Avenida Los Pajaritos, Chile",
+            "state": "",
+            "streetAddress2": "",
+            "city": "",
+            "postalCode": "",
+            "name": "Kodakmoments",
+            "lat": -33.4806767,
+            "phoneNumber": "",
+            "lng": -70.7469193
+          },
+          {
+            "id": 1004704206,
+            "uuid": "1004704206",
+            "ordering": 3,
+            "streetAddress1": "1230 Compañía de Jesús, Chile",
+            "state": "",
+            "streetAddress2": "",
+            "city": "",
+            "postalCode": "",
+            "name": "Kodakmoments",
+            "lat": -33.4388376,
+            "phoneNumber": "",
+            "lng": -70.65459049999998
+          }
+        ],
+        "customFields": []
+      }
+    ],
+    "locations": [],
+    "specialCampaignDeal": false
+  }
+}
