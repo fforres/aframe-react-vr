@@ -23,9 +23,9 @@ acorn@^4.0.3, acorn@^4.0.4:
   version "4.0.11"
   resolved "https://registry.yarnpkg.com/acorn/-/acorn-4.0.11.tgz#edcda3bd937e7556410d42ed5860f67399c794c0"
 
-aframe-animation-component@^3.2.1:
-  version "3.2.1"
-  resolved "https://registry.yarnpkg.com/aframe-animation-component/-/aframe-animation-component-3.2.1.tgz#49029e7632598add112310a2b9ff014a77f20b72"
+aframe-animation-component@^3.2.2:
+  version "3.2.2"
+  resolved "https://registry.yarnpkg.com/aframe-animation-component/-/aframe-animation-component-3.2.2.tgz#68e3bfd93e93ee85aa739c1ffb34670b87cbece7"
   dependencies:
     animejs "^1.1.0"
 
@@ -36,6 +36,10 @@ aframe-bmfont-text-component@^0.1.4:
     load-bmfont "^1.2.3"
     object-assign "^4.1.0"
     three-bmfont-text "^2.1.0"
+
+aframe-mouse-cursor-component@^0.4.1:
+  version "0.4.1"
+  resolved "https://registry.yarnpkg.com/aframe-mouse-cursor-component/-/aframe-mouse-cursor-component-0.4.1.tgz#f3784416fc3b7c65551064145846625af8ca3243"
 
 aframe-react@^3.5.0:
   version "3.5.0"

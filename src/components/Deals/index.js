@@ -9,11 +9,11 @@ class Deals extends Component {
     super()
     this.state = {};
     this.state.boxSize = 0.6;
+    this.state.selected = false;
     this.renderDeal = this.renderDeal.bind(this);
   }
   render () {
     const { deals } = this.props;
-    console.log(this.props.deals)
     return (
       <Entity>
         {deals.map(this.renderDeal)}
@@ -23,14 +23,16 @@ class Deals extends Component {
 
   renderDeal (deal, index) {
     const { boxSize } = this.state;
-    let position = circularPositionFromIndex(index, boxSize)
-    console.log(deal)
+    const position = circularPositionFromIndex(index, boxSize);
+    const { selectedDeal } = this.props;
     const {
       id,
       grid4ImageUrl,
       shortAnnouncementTitle,
       dealUrl,
+      images,
     } = deal;
+    const image = images[0].big || grid4ImageUrl;
     return (
       <Deal
         key={index}
@@ -40,8 +42,9 @@ class Deals extends Component {
         width={boxSize} height={boxSize} depth={boxSize}
         position={position}
         index={index}
-        photoUrl={grid4ImageUrl}
-        onClick={this.props.onAvatarClicked}
+        photoUrl={image}
+        selected={(selectedDeal.id === id)}
+        onClick={this.props.onCubeClicked}
       />
     )
   }
