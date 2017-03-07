@@ -1,6 +1,5 @@
 import 'aframe';
 import 'aframe-animation-component';
-import 'aframe-text-geometry-component';
 import 'babel-polyfill';
 import { Entity, Scene } from 'aframe-react';
 import React from 'react';
@@ -16,7 +15,13 @@ import backGround2 from './images/mirrorsedge3.jpg';
 import backGround3 from './images/witcher3.jpg';
 
 import data from './data.deals.gpn.json';
-console.log(data);
+
+// AFRAME.registerComponent('rotate-on-tick', {
+//   tick: function (t, dt) {
+//     this.object3D.rotation.x += .001;
+//   }
+// });
+
 class VRScene extends React.Component {
   constructor(props) {
     super(props);
@@ -26,26 +31,44 @@ class VRScene extends React.Component {
     this.state.deals = data.deals;
 
     this.clickDealCube = this.clickDealCube.bind(this);
+    this.clickDealBuyCube = this.clickDealBuyCube.bind(this);
   }
 
-  clickDealCube(id) {
+  clickDealCube(id, position) {
+    const deal = this.state.deals.find(el => el.id === id);
+    deal.position = position;
     this.setState({
-      selectedDeal: this.state.deals.find(el => el.id === id)
+      selectedDeal: deal,
+    })
+  }
+
+  clickDealBuyCube() {
+    this.setState({
+      selectedDeal: false,
     })
   }
 
   render () {
     let vizualization = null;
     if(this.state.selectedDeal) {
-      vizualization = <BuyDeal deal={this.state.selectedDeal} />
+      vizualization = <BuyDeal
+        deal={this.state.selectedDeal}
+        position={this.state.selectedDeal.position}
+        onCubeClicked={this.clickDealBuyCube}
+      />
     } else {
-      vizualization = <Deals selectedDeal={this.state.selectedDeal} deals={this.state.deals} onCubeClicked={this.clickDealCube} />
+      vizualization = <Deals
+        selectedDeal={this.state.selectedDeal}
+        deals={this.state.deals}
+        onCubeClicked={this.clickDealCube}
+      />
     }
     return (
       <Scene>
         <a-assets>
           <a-asset-item id="optimerBoldFont" src="https://rawgit.com/mrdoob/three.js/dev/examples/fonts/optimer_bold.typeface.json"></a-asset-item>
         </a-assets>
+        <Entity bmfont-text={{text: 'HELLO WORLD'}} position="{[0, 1, -5]}"/>
 
         <Camera>
           <a-cursor
@@ -53,7 +76,7 @@ class VRScene extends React.Component {
           </a-cursor>
         </Camera>
 
-        <Sky src={`url(${backGround3})`}/>
+        {/* <Sky src={`url(${backGround3})`}/> */}
 
         {vizualization}
 

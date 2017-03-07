@@ -9,6 +9,7 @@ class Deals extends Component {
     super()
     this.state = {};
     this.state.boxSize = 0.6;
+    this.state.selected = false;
     this.renderDeal = this.renderDeal.bind(this);
   }
   render () {
@@ -22,7 +23,8 @@ class Deals extends Component {
 
   renderDeal (deal, index) {
     const { boxSize } = this.state;
-    let position = circularPositionFromIndex(index, boxSize)
+    const position = circularPositionFromIndex(index, boxSize);
+    const { selectedDeal } = this.props;
     const {
       id,
       grid4ImageUrl,
@@ -41,6 +43,7 @@ class Deals extends Component {
         position={position}
         index={index}
         photoUrl={image}
+        selected={(selectedDeal.id === id)}
         onClick={this.props.onCubeClicked}
       />
     )

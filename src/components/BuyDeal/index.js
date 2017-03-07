@@ -8,7 +8,7 @@ class Deals extends Component {
   constructor() {
     super()
     this.state = {};
-    this.state.boxSize = 0.9;
+    this.state.boxSize = 1.4;
     this.renderDeal = this.renderDeal.bind(this);
     this.onEnter = this.onEnter.bind(this);
   }
@@ -26,12 +26,13 @@ class Deals extends Component {
 
   renderDeal (deal, index) {
     const { boxSize } = this.state;
-    let position = circularPositionFromIndex(index, boxSize)
+    // let position = circularPositionFromIndex(index, boxSize)
     const {
       id,
       grid4ImageUrl,
       shortAnnouncementTitle,
       dealUrl,
+      position,
       images,
     } = deal;
     const image = images[0].big || grid4ImageUrl;
