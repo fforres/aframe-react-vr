@@ -8,13 +8,18 @@
     "aframe-text-component": "^0.4.2",
     "aframe-text-geometry-component": "^0.5.1",
     "babel-polyfill": "^6.23.0",
+    "copyfiles": "^1.2.0",
     "file-loader": "^0.10.1",
+    "gh-pages": "^0.12.0",
     "lodash": "^4.17.4",
     "react": "^15.4.2",
     "react-dom": "^15.4.2"
   },
   "scripts": {
+    "prebuild": "rimraf build",
     "build": "webpack",
+    "postbuild": "copyfiles -u 1 src/index.html build",
+    "deploy": "gh-pages -d build",
     "serve": "webpack-dev-server --content-base src --progress --watch --history-api-fallback --inline --hot --host 0.0.0.0 --port 9090"
   },
   "devDependencies": {
